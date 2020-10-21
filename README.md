@@ -100,3 +100,5 @@ DATABASE & DEPLOYMENT
 	> firebase deploy
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
+
+Live Link : https://tik-tok-clone-cf97d.web.app
