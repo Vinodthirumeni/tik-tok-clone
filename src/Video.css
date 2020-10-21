@@ -1,0 +1,19 @@
+.video {
+  position: relative;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  scroll-snap-align: start;
+}
+
+.video__player {
+  object-fit: fill;
+  height: 100%;
+  width: 100%;
+}
+.video__count {
+  position: absolute;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+}
